@@ -4,7 +4,16 @@
 
 body {
   margin: 0;
-  font-family: ;
+  font-family: Inter, sans-serif;
   height: 100vh;
   background-color: #23252C;
 }
+
+.title-name {
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+color: #FFFFFF;
+}
+
